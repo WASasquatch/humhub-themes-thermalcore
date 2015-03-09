@@ -1,0 +1,14 @@
+{
+    "id": "thermalcore",
+    "name": "Thermal Core",
+	"author": "HThemes (Jordan Thompson)",
+	"website": "http://community.humhub.org/",
+	"github": "https://github.com/WASasquatch/humhub-themes-hivehub",
+    "description": "A elegant and stylish dark CSS3 theme for HumHub.",
+    "keywords": ["theme","HiveHub","thermal","core"],
+    "version": "0.0.2",
+    "humhub": {
+        "minVersion": "0.10.0"
+    },
+	"license": "GNU License",
+}

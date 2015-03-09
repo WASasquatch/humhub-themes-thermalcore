@@ -1,0 +1,28 @@
+.onoffswitch-inner:before {
+    background-color: rgb(220,155,0);
+    color: #FFFFFF;
+}
+
+.onoffswitch-inner:after {
+    background-color: #e3d7bb;
+    color: #999999;
+    text-align: right;
+}
+
+.regular-checkbox:checked + .regular-checkbox-box {
+    border: 2px solid rgb(220,155,0);
+    background: rgb(220,155,0);
+    color: white;
+}
+
+
+.regular-radio:checked + .regular-radio-button:after {
+    background: rgb(220,155,0);
+}
+
+.regular-radio:checked + .regular-radio-button {
+    background-color: none;
+    color: #a79f99;
+    border: 2px solid #e3d7bb;
+    margin-right: 5px;
+}
