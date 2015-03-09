@@ -2,6 +2,8 @@
 ### humhub-themes-thermalcore
 A dark, sharp orange theme for HumHub by WAS (Jordan S. C. Thompson)
 
+<img src="http://i.imgur.com/IcDg6g1.png" />
+
 ### Installation
 
 - drop or clone into your /themes/ folder as "ThermalCore"
